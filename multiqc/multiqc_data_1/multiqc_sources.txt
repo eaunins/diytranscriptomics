@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	kallisto | test | SRR8668755_1M_subsample	/Users/eaunins/Documents/diytranscriptomics/kallisto/test/test.log
+FastQC	all_sections	SRR8668755	/Users/eaunins/Documents/diytranscriptomics/SRR8668755.fastq-002_fastqc.zip
+FastQC	all_sections	SRR8668769	/Users/eaunins/Documents/diytranscriptomics/SRR8668769.fastq-005_fastqc.zip
+FastQC	all_sections	SRR8668758	/Users/eaunins/Documents/diytranscriptomics/SRR8668758_fastqc.zip
+FastQC	all_sections	SRR8668755_1M_subsample	/Users/eaunins/Documents/diytranscriptomics/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	SRR8668756	/Users/eaunins/Documents/diytranscriptomics/SRR8668756.fastq-003_fastqc.zip
+FastQC	all_sections	SRR8668757	/Users/eaunins/Documents/diytranscriptomics/SRR8668757.fastq-004_fastqc.zip
+FastQC	all_sections	SRR8668774	/Users/eaunins/Documents/diytranscriptomics/SRR8668774.fastq-009_fastqc.zip
+FastQC	all_sections	SRR8668772	/Users/eaunins/Documents/diytranscriptomics/SRR8668772.fastq-008_fastqc.zip
+FastQC	all_sections	SRR8668771	/Users/eaunins/Documents/diytranscriptomics/SRR8668771.fastq-006_fastqc.zip
+FastQC	all_sections	SRR8668773	/Users/eaunins/Documents/diytranscriptomics/SRR8668773.fastq-007_fastqc.zip
+FastQC	all_sections	SRR8668759	/Users/eaunins/Documents/diytranscriptomics/SRR8668759_fastqc.zip

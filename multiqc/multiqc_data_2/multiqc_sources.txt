@@ -1,0 +1,24 @@
+Module	Section	Sample Name	Source
+Snippy	snippy	multiqc_data_1 | multiqc	/Users/eaunins/Documents/diytranscriptomics/multiqc_data_1/multiqc.log
+Kallisto	all_sections	SRR8668774	/Users/eaunins/Documents/diytranscriptomics/sample774.log
+Kallisto	all_sections	SRR8668772	/Users/eaunins/Documents/diytranscriptomics/sample772.log
+Kallisto	all_sections	SRR8668759	/Users/eaunins/Documents/diytranscriptomics/sample759.log
+Kallisto	all_sections	SRR8668771	/Users/eaunins/Documents/diytranscriptomics/sample771.log
+Kallisto	all_sections	SRR8668758	/Users/eaunins/Documents/diytranscriptomics/sample758.log
+Kallisto	all_sections	SRR8668773	/Users/eaunins/Documents/diytranscriptomics/sample8773.log
+Kallisto	all_sections	SRR8668755	/Users/eaunins/Documents/diytranscriptomics/sample755.log
+Kallisto	all_sections	SRR8668769	/Users/eaunins/Documents/diytranscriptomics/sample769.log
+Kallisto	all_sections	SRR8668756	/Users/eaunins/Documents/diytranscriptomics/sample756.log
+Kallisto	all_sections	SRR8668757	/Users/eaunins/Documents/diytranscriptomics/sample757.log
+Kallisto	all_sections	kallisto | test | SRR8668755_1M_subsample	/Users/eaunins/Documents/diytranscriptomics/kallisto/test/test.log
+FastQC	all_sections	SRR8668755	/Users/eaunins/Documents/diytranscriptomics/SRR8668755.fastq-002_fastqc.zip
+FastQC	all_sections	SRR8668769	/Users/eaunins/Documents/diytranscriptomics/SRR8668769.fastq-005_fastqc.zip
+FastQC	all_sections	SRR8668758	/Users/eaunins/Documents/diytranscriptomics/SRR8668758_fastqc.zip
+FastQC	all_sections	SRR8668755_1M_subsample	/Users/eaunins/Documents/diytranscriptomics/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	SRR8668757	/Users/eaunins/Documents/diytranscriptomics/SRR8668757.fastq-004_fastqc.zip
+FastQC	all_sections	SRR8668756	/Users/eaunins/Documents/diytranscriptomics/SRR8668756_fastqc.zip
+FastQC	all_sections	SRR8668774	/Users/eaunins/Documents/diytranscriptomics/SRR8668774.fastq-009_fastqc.zip
+FastQC	all_sections	SRR8668772	/Users/eaunins/Documents/diytranscriptomics/SRR8668772.fastq-008_fastqc.zip
+FastQC	all_sections	SRR8668771	/Users/eaunins/Documents/diytranscriptomics/SRR8668771.fastq-006_fastqc.zip
+FastQC	all_sections	SRR8668773	/Users/eaunins/Documents/diytranscriptomics/SRR8668773.fastq-007_fastqc.zip
+FastQC	all_sections	SRR8668759	/Users/eaunins/Documents/diytranscriptomics/SRR8668759_fastqc.zip

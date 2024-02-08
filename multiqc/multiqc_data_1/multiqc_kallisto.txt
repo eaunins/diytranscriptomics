@@ -1,0 +1,2 @@
+Sample	total_reads	pseudoaligned_reads	not_pseudoaligned_reads	percent_aligned
+kallisto | test | SRR8668755_1M_subsample	1000000.0	527959.0	472041.0	52.795899999999996
